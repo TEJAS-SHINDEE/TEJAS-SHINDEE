@@ -13,7 +13,7 @@
 - 💬 Ask me About Web development and Compititive Programming (DSA).
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tejasshinde8022@gmail.com)](mailto:tejasshinde8022.com) 
 - ⚡ Fun fact: Debugging Ninja - Can find a bug faster than you blink.
-- Profile views: ![](https://komarev.com/ghpvc/?username=arjyo851)
+- Profile views: ![](https://komarev.com/ghpvc/?username=TEJAS-SHINDEE)
 
 <br>
 <h2>📊 Github Stats</h2>
@@ -52,7 +52,7 @@
 
 <a href="https://www.linkedin.com/in/tejas-shinde-connect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://www.instagram.com/___tejas_shinde_0404/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tejas_shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tejas_shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://leetcode.com/tejas_shinde_8022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tejas_shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
 </p>
