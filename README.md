@@ -19,8 +19,17 @@
 <br>
 <h2>📊 Github Stats</h2>
 
-![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=TEJAS-SHINDEE&theme=onedark)
+<!-- ![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=TEJAS-SHINDEE&theme=onedark) -->
+<table >
+  <tr>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=TEJAS-SHINDEE&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tejas Shinde" />
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TEJAS-SHINDEE&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anshul Kumar" /></td>
+  </tr>
+</table>
 
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TEJAS-SHINDEE&theme=dark" alt="tejas_shinde" /></p>
+  </div>
 <br>
 
 <br />
