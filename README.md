@@ -61,10 +61,10 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/tejas-shinde-connect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://www.instagram.com/___tejas_shinde_0404/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tejas_shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/tejas-shinde-8022/Landing-Page/main/codechef.webp" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://leetcode.com/tejas_shinde_8022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tejas_shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://www.codechef.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tejas-shinde-8022/Landing-Page/main/codechef.webp" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" /></a>
 </p>
 
 
