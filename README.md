@@ -28,7 +28,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TEJAS-SHINDEE&theme=dark" alt="tejas_shinde" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TEJAS-SHINDEE&theme=dark" alt="tejas_shinde " /></p>
   </div>
 <br>
 
