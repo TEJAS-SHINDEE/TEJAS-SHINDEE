@@ -8,7 +8,7 @@
 <br>                   
 
 
-- 🔭 I am honing my dev and JAVA skills.
+- 🔭 I am honing my dev and JAVA skills.      
 - 🌱 I am currently learning Full Stack Developement #(MERN) 
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Compititive Programming (DSA).
