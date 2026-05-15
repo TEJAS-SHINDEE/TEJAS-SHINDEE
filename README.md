@@ -1,6 +1,8 @@
 ### Hi there,                             
 ### I'm TEJAS SHINDE 👋                                                              
-<p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
+<!-- <p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p> -->
+<img width="1842" height="854" alt="ChatGPT Image May 15, 2026, 10_37_09 PM" src="https://github.com/user-attachments/assets/d66c9bdc-caf2-4927-9664-58990d744cdc" />
+
                                       
                                                                                       
                                             
